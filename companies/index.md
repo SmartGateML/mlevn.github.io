@@ -32,12 +32,16 @@ Crunchbase searches:
 [ngene.co](https://www.ngene.co/)
 ### PicsArt
 [picsart.com](https://picsart.com/)
+### Pixomatic
+[pixomatic.us](https://pixomatic.us/)
 ### Snark
 [snark.ai](https://snark.ai/)
 ### SuperAnnotate AI
 [superannotate.ai](superannotate.ai)
 ### Teamable
 [teamable.com](https://www.teamable.com/)
+### VMware
+[vmware.com](https://www.vmware.com)
 ### WebbFontaine
 [webbfontaine.com](https://webbfontaine.com/)
 ### Wolfram Research
