@@ -8,6 +8,9 @@ See also: [facebook.com/MLEVN.org/events](https://www.facebook.com/MLEVN.org/eve
 
 ## 2018
 
+### Science and Technology Convergence Forum
+Annual [conference](http://www.stcc.am) convening the industry and academia to discuss Qunatum Computing, AI/ML, Cybersecurity, Computer Vision and Renuable Energy.
+
 ### YSU-ISTC Joint Summer School on Machine Learning 2018
 The [5th summer school on mathematics and applications](http://mathschool.ysu.am/mss2018/) was held in August with lecturers 
 Shai Ben-David from the University of Waterloo, Robert M. Gower from Telecom-Paristech, Julien Mairal from Inria Grenoble, Dmitry Vetrov from the Higher School of Economics, Arnak Dalalyan from ENSAE / CREST, Adam Bittlingmayer, founder of Signal N, and Erik Arakelyan, a machine learning engineer at Teamable.
